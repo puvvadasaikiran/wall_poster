@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1010504504037",
+    "firebase_url": "https://wall-poster-ea18f.firebaseio.com",
+    "project_id": "wall-poster-ea18f",
+    "storage_bucket": "wall-poster-ea18f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010504504037:android:cadf62d3e1c2113455ba0c",
+        "android_client_info": {
+          "package_name": "cybergarrage.wallposter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010504504037-k478s60v4gb0660lj3fat2192bt33fhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACz3S81mKfrd0J4kJfPsoiS9OeTZnCAw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010504504037-k478s60v4gb0660lj3fat2192bt33fhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
